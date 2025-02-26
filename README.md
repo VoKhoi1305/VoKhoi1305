@@ -49,10 +49,7 @@
 - Improve knowledge of **system programming languages** such as Java, C#, and Cobol.  
 - Enhance language skills in **Japanese** and **English**.  
 ## 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn](#)  
-- Email: [Your Email](#)  
-- Portfolio: [Your Website](#)  
-
+- Email: Voanhkhoi91b@gmail.com
 ---
 
 ⭐️ *Feel free to explore my repositories and reach out for collaboration opportunities!*
