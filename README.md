@@ -1,9 +1,8 @@
 # 👋 Hi there! I'm Võ Anh Khôi
 
 🎓 Third-year student at Hanoi University of Science and Technology  
-💻 Passionate about IoT, AIoT, and signal processing  
-🚀 Currently working on BLE networks, sensor technology, and smart device development  
-
+💻 Passionate about IoT, AIoT, Fullstack   
+🚀 Love to travel 
 ---
 
 ## 🛠️ Technologies & Tools
