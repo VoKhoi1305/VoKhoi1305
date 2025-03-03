@@ -1,4 +1,4 @@
-# 👋 おはようございます。! I'm Võ Anh Khôi
+# 👋 おはようございます! I'm Võ Anh Khôi
 
 🎓 Third-year student at Hanoi University of Science and Technology  
 💻 Passionate about IoT, AIoT, Cloud and fullstack  
